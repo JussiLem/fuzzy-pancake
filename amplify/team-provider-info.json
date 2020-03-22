@@ -16,6 +16,12 @@
                 "appsyncchateaae81e3": {
                     "hostedUIProviderCreds": "[]"
                 }
+            },
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "db1i685uxsmvh",
+                    "type": "cicd"
+                }
             }
         }
     }
